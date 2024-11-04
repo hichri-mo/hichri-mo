@@ -33,7 +33,7 @@ Tools & Platforms
 🧬 Hugging Face
 📊 Kaggle
 🌐 Portfolio
-📧 Email: your-email@example.com
+📧 Email: mo.hichri@gmail.com
 📊 GitHub Stats
 
 
